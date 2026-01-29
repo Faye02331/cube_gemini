@@ -1,0 +1,5 @@
+{
+  "name": "Geometric Scroll Portfolio",
+  "description": "A high-end interactive portfolio featuring a 3D rotating cube that flips in sync with page scrolling, inspired by modern design studio websites.",
+  "requestFramePermissions": []
+}
